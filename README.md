@@ -1,8 +1,15 @@
 ## Hi, I'm Marcos
 
-Engineering student at La Salle (Universitat Ramon Llull) in Barcelona. I mostly build
-backend services and full stack web apps, and I like problems where the interesting
-part is the design: caching, concurrency, and keeping external API usage under control.
+I'm studying engineering at La Salle (Universitat Ramon Llull) in Barcelona, and most of
+what I know comes from building things end to end and putting them online.
+
+Right now that's mainly Torii, a flight deal finder in Spring Boot and React where the
+real challenge is that a single search can mean hundreds of calls to paid APIs, so the
+design revolves around caching, concurrency and failover between providers. I'm also
+building a set of static Next.js tool sites aimed at organic search traffic.
+
+I'm most comfortable on the backend and with system design, but I care about the product
+side too: pricing plans, usage quotas and shipping something people can actually use.
 
 ### Tech I work with
 
