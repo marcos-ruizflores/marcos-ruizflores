@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-ruiz-flores-vicente"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/marcos-ruiz-flores-vicente-12b8311b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### About me
@@ -33,18 +33,57 @@ it run in production.
 
 ### Featured projects
 
-<p align="center">
-  <a href="https://github.com/marcos-ruizflores/Torii"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-ruizflores&repo=Torii&theme=tokyonight&hide_border=true" alt="Torii" /></a>
-  <a href="https://github.com/marcos-ruizflores/seo-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-ruizflores&repo=seo-portfolio&theme=tokyonight&hide_border=true" alt="seo-portfolio" /></a>
-  <a href="https://github.com/marcos-ruizflores/criptoBalance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-ruizflores&repo=criptoBalance&theme=tokyonight&hide_border=true" alt="criptoBalance" /></a>
-  <a href="https://github.com/marcos-ruizflores/gRCP-WhatsUp-Chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-ruizflores&repo=gRCP-WhatsUp-Chat&theme=tokyonight&hide_border=true" alt="gRPC group chat" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/marcos-ruizflores/Torii"><b>Torii</b></a>
+
+Flight deal finder for flexible dates. Sliding window search with virtual threads, per-trip TTL cache and failover across flight APIs.
+
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/marcos-ruizflores/seo-portfolio"><b>seo-portfolio</b></a>
+
+Monorepo of statically exported tool sites with a shared SEO core package.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/marcos-ruizflores/criptoBalance"><b>criptoBalance</b></a>
+
+Crypto portfolio tracker with live Binance prices, PnL and price alerts.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/marcos-ruizflores/gRCP-WhatsUp-Chat"><b>gRPC group chat</b></a>
+
+Terminal group chat over gRPC with vector clock message ordering.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcos-ruizflores&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-ruizflores&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+</p>
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=marcos-ruizflores&theme=tokyonight&hide_border=true" alt="Contribution streak" />
