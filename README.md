@@ -1,41 +1,55 @@
-## Hi, I'm Marcos
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Marcos%20Ruiz-Flores&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer%20%C2%B7%20Barcelona&descAlignY=58&descSize=16" alt="Marcos Ruiz-Flores" />
+</p>
 
-I'm studying engineering at La Salle (Universitat Ramon Llull) in Barcelona, and most of
-what I know comes from building things end to end and putting them online.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+microservices;Distributed+systems+and+API+design;From+the+first+commit+to+production" alt="Java & Spring Boot microservices" />
+</p>
 
-Right now that's mainly Torii, a flight deal finder in Spring Boot and React where the
-real challenge is that a single search can mean hundreds of calls to paid APIs, so the
-design revolves around caching, concurrency and failover between providers. I'm also
-building a set of static Next.js tool sites aimed at organic search traffic.
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcos-ruiz-flores-vicente"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-I'm most comfortable on the backend and with system design, but I care about the product
-side too: pricing plans, usage quotas and shipping something people can actually use.
+### About me
 
-### Tech I work with
+Backend software engineer from Barcelona. I build Java and Spring Boot microservices that
+run in production, and most of my time goes into the parts that make a system hold up:
+API design, messaging, caching and everything that happens between services.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+I studied Computer Engineering at La Salle Campus Barcelona, where I also spent two years
+as an assistant teacher in Operating Systems, Systems Administration and Databases. That
+left me with a soft spot for going down to C, Linux and query plans whenever a problem
+calls for it.
 
-### Projects
+What I enjoy most is owning a feature end to end, from the first design sketch to seeing
+it run in production.
 
-| Project | What it is | Stack |
-|---|---|---|
-| [Torii](https://github.com/marcos-ruizflores/Torii) | Flight deal finder for flexible dates. Sliding window search over date combinations, per-trip TTL cache and failover across several flight APIs | Java 21, Spring Boot, PostgreSQL, React |
-| [seo-portfolio](https://github.com/marcos-ruizflores/seo-portfolio) | Monorepo of statically exported tool sites with a shared SEO core | Next.js, TypeScript, Tailwind |
-| [criptoBalance](https://github.com/marcos-ruizflores/criptoBalance) | Crypto portfolio tracker with live Binance prices, PnL and alerts | FastAPI, MongoDB, React |
-| [gRPC group chat](https://github.com/marcos-ruizflores/gRCP-WhatsUp-Chat) | Terminal group chat with vector clock message ordering | Python, gRPC |
-| [buyerScrap](https://github.com/marcos-ruizflores/buyerScrap) | Grocery budget planner built on scraped supermarket prices | Python, Selenium |
+### Tech stack
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,react,nextjs,c,bash,swift&perline=10" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,githubactions,jenkins,git,linux&perline=10" alt="Data and infrastructure" />
+</p>
 
-Spanish (native) · English
+### Featured projects
+
+<p align="center">
+  <a href="https://github.com/marcos-ruizflores/Torii"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-ruizflores&repo=Torii&theme=tokyonight&hide_border=true" alt="Torii" /></a>
+  <a href="https://github.com/marcos-ruizflores/seo-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-ruizflores&repo=seo-portfolio&theme=tokyonight&hide_border=true" alt="seo-portfolio" /></a>
+  <a href="https://github.com/marcos-ruizflores/criptoBalance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-ruizflores&repo=criptoBalance&theme=tokyonight&hide_border=true" alt="criptoBalance" /></a>
+  <a href="https://github.com/marcos-ruizflores/gRCP-WhatsUp-Chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos-ruizflores&repo=gRCP-WhatsUp-Chat&theme=tokyonight&hide_border=true" alt="gRPC group chat" /></a>
+</p>
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcos-ruizflores&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-ruizflores&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marcos-ruizflores&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="" />
+</p>
