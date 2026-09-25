@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
+  <style>
+    * { font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; }
+    .title { font-size: 22px; fill: #70a5fd; }
+    .lang { font-size: 14px; fill: #38bdae; }
+    .rank { font-size: 12px; fill: #a9b1d6; }
+  </style>
+  <rect x="1" y="1" rx="5" ry="5" width="338" height="198" fill="#1a1b27" stroke="#1a1b27"/>
+  <text x="30" y="40" class="title">Top Languages</text>
+
+  <g transform="translate(30,68)">
+    <text x="0" y="12" class="rank">1</text>
+    <rect x="18" y="0" width="14" height="14" rx="2" fill="#b07219"/>
+    <text x="40" y="12" class="lang">Java</text>
+    <rect x="110" y="3" width="190" height="8" rx="4" fill="#24283b"/>
+    <rect x="110" y="3" width="190" height="8" rx="4" fill="#b07219"/>
+  </g>
+  <g transform="translate(30,108)">
+    <text x="0" y="12" class="rank">2</text>
+    <rect x="18" y="0" width="14" height="14" rx="2" fill="#A8B9CC"/>
+    <text x="40" y="12" class="lang">C</text>
+    <rect x="110" y="3" width="190" height="8" rx="4" fill="#24283b"/>
+    <rect x="110" y="3" width="140" height="8" rx="4" fill="#A8B9CC"/>
+  </g>
+  <g transform="translate(30,148)">
+    <text x="0" y="12" class="rank">3</text>
+    <rect x="18" y="0" width="14" height="14" rx="2" fill="#3572A5"/>
+    <text x="40" y="12" class="lang">Python</text>
+    <rect x="110" y="3" width="190" height="8" rx="4" fill="#24283b"/>
+    <rect x="110" y="3" width="105" height="8" rx="4" fill="#3572A5"/>
+  </g>
+</svg>

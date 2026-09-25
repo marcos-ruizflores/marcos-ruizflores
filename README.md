@@ -83,7 +83,7 @@ Terminal group chat over gRPC with vector clock message ordering.
 </p>
 <p align="center">
   <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+  <img height="170" src="./assets/top-languages.svg" alt="Top languages: Java, C, Python" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=marcos-ruizflores&theme=tokyonight&hide_border=true" alt="Contribution streak" />
